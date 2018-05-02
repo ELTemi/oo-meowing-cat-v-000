@@ -4,7 +4,7 @@ class Cat
 
   def initialize
     @name = name
-    @meow = meow
+    
   end
 
   def meow
